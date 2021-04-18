@@ -1,0 +1,22 @@
+[
+    {
+        "image_name": "remove_data/guess/0_52/52_0-52_1.jpg",
+        "label": "Non_sequitur",
+        "score": "0.04220611"
+    },
+    {
+        "image_name": "remove_data/guess/0_52/52_1-52_2.jpg",
+        "label": "Subject",
+        "score": "0.13832274"
+    },
+    {
+        "image_name": "remove_data/guess/0_52/52_2-52_3.jpg",
+        "label": "Non_sequitur",
+        "score": "0.25812262"
+    },
+    {
+        "image_name": "remove_data/guess/0_52/52_3-52_4.jpg",
+        "label": "Non_sequitur",
+        "score": "0.005863309"
+    }
+]

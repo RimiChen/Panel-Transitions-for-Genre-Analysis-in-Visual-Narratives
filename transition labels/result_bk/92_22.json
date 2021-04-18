@@ -1,0 +1,47 @@
+[
+    {
+        "image_name": "remove_data/guess/92_22/22_0-22_1.jpg",
+        "label": "Subject",
+        "score": "0.9625973"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_1-22_2.jpg",
+        "label": "Subject",
+        "score": "0.9067383"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_2-22_3.jpg",
+        "label": "Subject",
+        "score": "0.731296"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_3-22_4.jpg",
+        "label": "Subject",
+        "score": "0.09594795"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_4-22_5.jpg",
+        "label": "Subject",
+        "score": "0.9141272"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_5-22_6.jpg",
+        "label": "Subject",
+        "score": "0.121896446"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_6-22_7.jpg",
+        "label": "Subject",
+        "score": "0.750006"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_7-22_8.jpg",
+        "label": "Subject",
+        "score": "0.88039714"
+    },
+    {
+        "image_name": "remove_data/guess/92_22/22_8-22_9.jpg",
+        "label": "Subject",
+        "score": "0.550039"
+    }
+]

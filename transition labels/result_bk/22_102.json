@@ -1,0 +1,22 @@
+[
+    {
+        "image_name": "remove_data/guess/22_102/102_0-102_1.jpg",
+        "label": "Subject",
+        "score": "0.9808387"
+    },
+    {
+        "image_name": "remove_data/guess/22_102/102_1-102_2.jpg",
+        "label": "Subject",
+        "score": "0.99992335"
+    },
+    {
+        "image_name": "remove_data/guess/22_102/102_2-102_3.jpg",
+        "label": "Subject",
+        "score": "0.99993557"
+    },
+    {
+        "image_name": "remove_data/guess/22_102/102_3-102_4.jpg",
+        "label": "Subject",
+        "score": "0.999999"
+    }
+]

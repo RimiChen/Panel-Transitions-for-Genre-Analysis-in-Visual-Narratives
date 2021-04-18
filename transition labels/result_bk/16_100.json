@@ -1,0 +1,17 @@
+[
+    {
+        "image_name": "remove_data/guess/16_100/100_0-100_1.jpg",
+        "label": "Subject",
+        "score": "0.94985056"
+    },
+    {
+        "image_name": "remove_data/guess/16_100/100_1-100_2.jpg",
+        "label": "Non_sequitur",
+        "score": "0.45538333"
+    },
+    {
+        "image_name": "remove_data/guess/16_100/100_2-100_3.jpg",
+        "label": "Action",
+        "score": "0.1793189"
+    }
+]

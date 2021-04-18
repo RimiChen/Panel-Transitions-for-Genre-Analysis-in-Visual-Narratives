@@ -1,0 +1,22 @@
+[
+    {
+        "image_name": "remove_data/guess/18_20/20_0-20_1.jpg",
+        "label": "Scene",
+        "score": "0.51025647"
+    },
+    {
+        "image_name": "remove_data/guess/18_20/20_1-20_2.jpg",
+        "label": "Scene",
+        "score": "0.43310833"
+    },
+    {
+        "image_name": "remove_data/guess/18_20/20_2-20_3.jpg",
+        "label": "Scene",
+        "score": "0.36534572"
+    },
+    {
+        "image_name": "remove_data/guess/18_20/20_3-20_4.jpg",
+        "label": "Subject",
+        "score": "0.36428505"
+    }
+]

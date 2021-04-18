@@ -1,0 +1,12 @@
+[
+    {
+        "image_name": "remove_data/guess/0_173/173_0-173_1.jpg",
+        "label": "Non_sequitur",
+        "score": "0.0037184656"
+    },
+    {
+        "image_name": "remove_data/guess/0_173/173_1-173_2.jpg",
+        "label": "Non_sequitur",
+        "score": "0.0027968884"
+    }
+]

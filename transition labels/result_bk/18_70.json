@@ -1,0 +1,17 @@
+[
+    {
+        "image_name": "remove_data/guess/18_70/70_0-70_1.jpg",
+        "label": "Scene",
+        "score": "0.33259284"
+    },
+    {
+        "image_name": "remove_data/guess/18_70/70_1-70_2.jpg",
+        "label": "Subject",
+        "score": "0.0005327463"
+    },
+    {
+        "image_name": "remove_data/guess/18_70/70_2-70_3.jpg",
+        "label": "Aspect",
+        "score": "1.5528558e-06"
+    }
+]

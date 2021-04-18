@@ -1,0 +1,27 @@
+[
+    {
+        "image_name": "remove_data/guess/27_120/120_0-120_1.jpg",
+        "label": "Scene",
+        "score": "0.07605848"
+    },
+    {
+        "image_name": "remove_data/guess/27_120/120_1-120_2.jpg",
+        "label": "Subject",
+        "score": "0.75284636"
+    },
+    {
+        "image_name": "remove_data/guess/27_120/120_2-120_3.jpg",
+        "label": "Subject",
+        "score": "0.797864"
+    },
+    {
+        "image_name": "remove_data/guess/27_120/120_3-120_4.jpg",
+        "label": "Subject",
+        "score": "0.9409536"
+    },
+    {
+        "image_name": "remove_data/guess/27_120/120_4-120_5.jpg",
+        "label": "Subject",
+        "score": "0.9325011"
+    }
+]

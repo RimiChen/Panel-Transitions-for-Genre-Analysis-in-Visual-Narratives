@@ -1,0 +1,27 @@
+[
+    {
+        "image_name": "remove_data/guess/10_35/35_0-35_1.jpg",
+        "label": "Subject",
+        "score": "0.3904491"
+    },
+    {
+        "image_name": "remove_data/guess/10_35/35_1-35_2.jpg",
+        "label": "Subject",
+        "score": "0.8387064"
+    },
+    {
+        "image_name": "remove_data/guess/10_35/35_2-35_3.jpg",
+        "label": "Subject",
+        "score": "0.9588764"
+    },
+    {
+        "image_name": "remove_data/guess/10_35/35_3-35_4.jpg",
+        "label": "Subject",
+        "score": "0.8834625"
+    },
+    {
+        "image_name": "remove_data/guess/10_35/35_4-35_5.jpg",
+        "label": "Subject",
+        "score": "0.96602863"
+    }
+]

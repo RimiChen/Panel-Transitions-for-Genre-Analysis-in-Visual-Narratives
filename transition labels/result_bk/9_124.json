@@ -1,0 +1,22 @@
+[
+    {
+        "image_name": "remove_data/guess/9_124/124_0-124_1.jpg",
+        "label": "Subject",
+        "score": "0.5255076"
+    },
+    {
+        "image_name": "remove_data/guess/9_124/124_1-124_2.jpg",
+        "label": "Subject",
+        "score": "0.64186716"
+    },
+    {
+        "image_name": "remove_data/guess/9_124/124_2-124_3.jpg",
+        "label": "Scene",
+        "score": "0.45772117"
+    },
+    {
+        "image_name": "remove_data/guess/9_124/124_3-124_4.jpg",
+        "label": "Scene",
+        "score": "0.111116886"
+    }
+]

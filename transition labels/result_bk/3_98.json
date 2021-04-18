@@ -1,0 +1,17 @@
+[
+    {
+        "image_name": "remove_data/guess/3_98/98_0-98_1.jpg",
+        "label": "Non_sequitur",
+        "score": "0.79761565"
+    },
+    {
+        "image_name": "remove_data/guess/3_98/98_1-98_2.jpg",
+        "label": "Aspect",
+        "score": "0.91802484"
+    },
+    {
+        "image_name": "remove_data/guess/3_98/98_2-98_3.jpg",
+        "label": "Subject",
+        "score": "0.97592914"
+    }
+]

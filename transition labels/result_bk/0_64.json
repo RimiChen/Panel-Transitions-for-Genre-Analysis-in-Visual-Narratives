@@ -1,0 +1,32 @@
+[
+    {
+        "image_name": "remove_data/guess/0_64/64_0-64_1.jpg",
+        "label": "Subject",
+        "score": "0.0863474"
+    },
+    {
+        "image_name": "remove_data/guess/0_64/64_1-64_2.jpg",
+        "label": "Aspect",
+        "score": "0.17400289"
+    },
+    {
+        "image_name": "remove_data/guess/0_64/64_2-64_3.jpg",
+        "label": "Subject",
+        "score": "0.13196692"
+    },
+    {
+        "image_name": "remove_data/guess/0_64/64_3-64_4.jpg",
+        "label": "Subject",
+        "score": "0.8079078"
+    },
+    {
+        "image_name": "remove_data/guess/0_64/64_4-64_5.jpg",
+        "label": "Subject",
+        "score": "0.025448501"
+    },
+    {
+        "image_name": "remove_data/guess/0_64/64_5-64_6.jpg",
+        "label": "Aspect",
+        "score": "0.0012328625"
+    }
+]

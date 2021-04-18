@@ -1,0 +1,17 @@
+[
+    {
+        "image_name": "remove_data/guess/7_106/106_0-106_1.jpg",
+        "label": "Action",
+        "score": "0.840783"
+    },
+    {
+        "image_name": "remove_data/guess/7_106/106_1-106_2.jpg",
+        "label": "Subject",
+        "score": "0.31520998"
+    },
+    {
+        "image_name": "remove_data/guess/7_106/106_2-106_3.jpg",
+        "label": "Aspect",
+        "score": "0.357418"
+    }
+]

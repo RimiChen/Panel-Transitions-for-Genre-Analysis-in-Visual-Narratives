@@ -1,0 +1,22 @@
+[
+    {
+        "image_name": "remove_data/guess/18_160/160_0-160_1.jpg",
+        "label": "Scene",
+        "score": "0.002427131"
+    },
+    {
+        "image_name": "remove_data/guess/18_160/160_1-160_2.jpg",
+        "label": "Subject",
+        "score": "1.5952849e-06"
+    },
+    {
+        "image_name": "remove_data/guess/18_160/160_2-160_3.jpg",
+        "label": "Subject",
+        "score": "0.0071605146"
+    },
+    {
+        "image_name": "remove_data/guess/18_160/160_3-160_4.jpg",
+        "label": "Subject",
+        "score": "0.45386404"
+    }
+]
